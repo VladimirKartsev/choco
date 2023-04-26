@@ -1,0 +1,34 @@
+.header-nav {
+  display: flex;
+  padding-top: 26px;
+}
+.header_logo {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.logo_span {
+  text-align: center;
+  justify-content: center;
+}
+.nav-link {
+  text-decoration: none;
+  list-style: none;
+}
+.nav_menu {
+  display: flex;
+  gap: 24px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 190px;
+}
+.social_nav-group {
+  display: flex;
+}
+.social_nav {
+  display: flex;
+  gap: 24px;
+  text-align: center;
+  justify-content: center;
+  margin-left: 140px;
+}
